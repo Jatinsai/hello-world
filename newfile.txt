@@ -1,2 +1,2 @@
 newfile12
-added new line
+added new line 1
